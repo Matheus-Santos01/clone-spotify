@@ -6,7 +6,7 @@
 
 Projeto construído para estudos.
 
-[Clique aqui para acessar](https://matheus-santos01.github.io/clone-spotify/)
+[Clique aqui para acessar](https://clone-spotify-ochre.vercel.app/)
 
 ## 🛠️ Tecnologias
 - HTML 
